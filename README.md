@@ -1,3 +1,5 @@
+:warning: *The copyright for this software is with Zendesk. The license for using this software (if any) is unknown by me.* :warning:
+
 # ZCC
 Introduces BCC functionality into the Zendesk ticketing lifecycle
 
