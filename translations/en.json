@@ -1,0 +1,33 @@
+{
+    "app": {},
+    "loading": "Welcome to the amazing",
+    "fetch": {
+        "done": "Primed for Action!",
+        "fail": "Oops! Something went wrong."
+    },
+    "id": "ID",
+    "email": "Email",
+    "name": "Name",
+    "role": "Role",
+    "groups": "Groups",
+    "ticket-comments": {
+        "full": "Full Ticket Comments",
+        "last": "Most Recent Public Comment"
+    },
+    "inputs": {
+        "add": "Add email addresses, separated by commas.",
+        "save": "Save"
+    },
+    "notifications": {
+        "invalid": "Invalid format:",
+        "success": "Primed for action!",
+        "failure": "Oops! Something went wrong."
+    },
+    "content": {
+        "target-title": "ZCC Target:",
+        "email-subject": "Update:",
+        "email-notification": "This email is an automated notification; please do not reply.",
+        "trigger-title": "ZCC Trigger for",
+        "app-subject": "Send BCC notification with:"
+    }
+}

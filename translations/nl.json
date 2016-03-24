@@ -1,0 +1,33 @@
+{
+    "app": {},
+    "loading": "Welkom!",
+    "fetch": {
+        "done": "Klaar is Kees!",
+        "fail": "Oeps! Er ging iets fout."
+    },
+    "id": "ID",
+    "email": "Email",
+    "name": "Naam",
+    "role": "Rol",
+    "groups": "Groep",
+    "ticket-comments": {
+        "full": "Volledige Ticket Reacties",
+        "last": "Meest recente openbare reactie"
+    },
+    "inputs": {
+        "add": "Voeg email adressen toe gescheiden door commas.",
+        "save": "Sla op"
+    },
+    "notifications": {
+        "invalid": "Ongeldig formaat:",
+        "success": "Klaar is Kees!",
+        "failure": "Oeps! Er ging iets fout."
+    },
+    "content": {
+        "target-title": "ZCC Doel:",
+        "email-subject": "Update:",
+        "email-notification": "Dit is een geautomatiseerde notificatie. Niet reageren a.u.b.",
+        "trigger-title": "ZCC Trigger voor",
+        "app-subject": "Verstuur BCC notificaties met:"
+    }
+}

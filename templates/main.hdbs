@@ -1,0 +1,13 @@
+<div class="CommentSelectors">
+    <form>
+        <input type="radio" name="ticketComments" value="ticket.comments_formatted"> {{t "ticket-comments.full"}}<br>
+        <input type="radio" name="ticketComments" value="ticket.latest_comment_formatted"> {{t "ticket-comments.last"}}
+        <br>
+    </form>
+</div>
+<p>&nbsp</p>
+<textarea rows="4" cols="40" name="emailList" placeholder="{{t "inputs.add"}}"></textarea>
+<p>&nbsp</p>
+<p id="button" class="saveEmails">
+    <button type="button">{{t "inputs.save"}}</button>
+</p>

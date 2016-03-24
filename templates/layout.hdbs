@@ -1,0 +1,9 @@
+<header>
+    <span class="logo"/>
+    <h3>{{setting "name"}}</h3>
+</header>
+<div>
+    <b>{{t "content.app-subject"}}</b>
+    <p>&nbsp</p>
+</div>
+<section data-main/>
